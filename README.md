@@ -22,8 +22,8 @@ Whether you're a personal seller or a car dealer, Carsell helps you connect with
 Follow these steps to set up the project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/CJcode6754/AutoCaller.git
-cd autocaller
+git clone https://github.com/CSuico27/Carsell.git
+cd carsell
 # Install PHP dependencies
 composer install
 # Install Node.js dependencies
